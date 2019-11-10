@@ -1,0 +1,101 @@
+﻿Current Version: 1.6
+
+Version 1.6
+New Features
+* Copy and paste
+* Dark mode
+* Blackboard mode
+* Button disables (e.g. "save" is disabled until "save as" is used)
+* Font selection
+* Font sizes
+Known Issues
+* Image is cut off sometimes when opened at bottom
+* Threading log file is not yet supported
+
+Version 1.5
+New Features
+* Marquee selection and move
+* Polygon 
+* Autosave after 15 seconds, can be paused
+* Unit tests in resize, autosave, open, and save as
+* Warning when saving as a different file type
+* Javadoc commenting
+Known Issues
+* Current select and move actually functions more like a copy and paste
+* Autosave does not reset on save and does not have a visible timer
+Planned Items
+* New mystery feature
+* Status bar
+* Tool logs
+* Select and move as opposed to copy paste
+
+Version 1.4
+New Features
+* Arc shape
+* Resize
+* Text box
+* Eraser
+* Redo and undo 2.0
+* User can sort of see shape as it's drawn
+Known Issues
+* Undo and redo take one extra click to undo
+* Horizontal scrollbar cuts off some images so they do not use the whole window
+* Shape preview is jank
+Planned Items
+* Marquee selection
+* n side polygon
+* Tool logs
+
+Version 1.3
+New Features
+* Opens png, jpg, and bmp
+* Can now draw shapes with fill (circle, rectangle, ellipse)
+* Zoom feature
+* New fill colorpicker
+* Undo
+* Smart save
+* Color dropper
+* Keyboard shortcuts
+Known Issues
+* Undo is weird with shapes, and cannot undo pencil
+* Scroll bars dont work when zooming
+* Shape buttons do not work together, must restart for each
+Planned Items
+* Resize canvas
+* Eraser
+* Marquee selection
+* Redo
+* Text boxes
+
+Version 1.2 (Sprint 2)
+New Features
+* The user can both save, and save as edited images
+* The user can draw lines or free draw on images
+* File>New loads an empty canvas for original art
+* The canvas resizes as images are loaded
+* Options for line width and color were added (do not work yet)
+* There is now a help section which gives some tips on the program
+Known Issues
+* Can't line draw then free draw or vice versa without destroying part of image
+* Opening another image after closing one destroys part of the image
+* Horizontal scroll bar is not in optimal condition, still works to some extent
+Planned Items
+* smart save
+* width and color functionality
+* shape drawing
+* color dropper
+* undo
+* keyboard shortcuts
+* and much more!
+
+Version 1.1 (Sprint 1)
+New Features
+* The user can open an image file
+* The user can save an image file
+* There is a menu bar located at the top of the screen, with one menu called file
+* There is a close menu item which nicely closes the program
+Known Issues
+* There are none yet
+Planned Items
+* Ability to fold images
+* Possible button for closing only file, rather than the whole program
